@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf( "TTC" ) ;
+	printf( "TTCÉQÅ[ÉÄÇ≈Ç¢" ) ;
 }
