@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf( "TTCゲームログラミング科" ) ;
+	printf( "TTCゲームプログラミング科" ) ;
 }
