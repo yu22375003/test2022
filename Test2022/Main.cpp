@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf( "TTC" ) ;
+	printf( "TTCゲームプログラミング科です" ) ;
 }
