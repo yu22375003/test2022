@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf( "TTCƒQ[ƒ€" ) ;
+	printf( "TTCƒQ[ƒ€‚Å‚Å" ) ;
 }
