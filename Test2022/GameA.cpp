@@ -11,6 +11,6 @@ void GameA()
       
 	for ( i = 0 ; i < 15 ; i++ )
 	{
-		printf( "«" ) ;
+		printf( "««" ) ;
 	}
 }
